@@ -1,0 +1,24 @@
+:root{
+    --bg-color: #FFFFFF;
+    --text-color: #121212;
+    --card-bg: #f0f0f0;
+
+
+}
+
+body{
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+}
+
+body.dark-mode{
+     --bg-color: #121212;
+     --text-color: #FFFFFF;
+     --card-bg: #121212;
+}
+
+.card{
+    background-color: var(--card-bg);
+}
