@@ -8,12 +8,6 @@ A simple and modern website that allows switching between **light** and **dark**
 
 ---
 
-## 🚀 Demo
-
-![Dark Mode Demo](https://github.com/your-username/dark-mode-toggle/assets/demo.gif)
-
----
-
 ## 🧩 Features
 
 - 🌗 Toggle between dark and light themes  
