@@ -12,8 +12,6 @@ A simple and modern website that allows switching between **light** and **dark**
 
 ![Dark Mode Demo](https://github.com/your-username/dark-mode-toggle/assets/demo.gif)
 
-*(Dodaj sliku ili GIF kad okačiš projekat — možeš snimiti kratki GIF pomoću npr. ScreenToGif)*
-
 ---
 
 ## 🧩 Features
